@@ -87,7 +87,6 @@ public class Hero {
 	// メソッド
 	 public void attack() {
 		 System.out.println(this.name + "の攻撃!");
-//		 System.out.println("敵にダメージを" + this.at + "与えた!");
 	 }
 	 
 	 public void defense() {
